@@ -31,6 +31,12 @@ You can support me by helping with the project or by sending in donations.
 
 Currently I am not accepting donations but that's coming soon.
 
+## Research
+
+Before the language can be built, it will need a solid foundation.
+
+[Goto Research](./research/README.md)
+
 ## Table of Contents
 - [Installation](#installation)
 - [Usage](#usage)
