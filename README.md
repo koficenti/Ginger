@@ -6,13 +6,16 @@ A distributed programming language that is a little sweet 🍬 but mostly spicy 
 
 Go's well with Lemon, a built-in webui to handle your distributed programs.
 
+
+### Coming soon...
+
 ## Downloads
 
-Windows: None
+Windows: Coming Soon
 
-MacOS:   None
+MacOS:   Coming Soon
 
-Linux:   None
+Linux:   Coming Soon
 
 
 ## Basic Usage
