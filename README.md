@@ -2,7 +2,7 @@
 
 # Ginger
 
-A distributed programming language that is a llttle sweet 🍬 but mostly spicy 🔥
+A distributed programming language that is a little sweet 🍬 but mostly spicy 🔥
 
 Go's well with Lemon, a built-in webui to handle your distributed programs.
 
@@ -14,12 +14,15 @@ MacOS:   None
 
 Linux:   None
 
+
+## Basic Usage
+
 ```bash
-ginger new MyProject
-
-cd MyProject
-
-ginger lemon
+ginger new MyProject # creates new project
+ginger new MyProject --template git_repo_uri # use a templat
+ginger lemon # starts lemon server
+ginger run # runs program
+ginger interact # opens interactive enviroment
 ```
 
 ## Support me
