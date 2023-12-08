@@ -19,7 +19,7 @@ Linux:   None
 
 ```bash
 ginger new MyProject # creates new project
-ginger new MyProject --template git_repo_uri # use a templat
+ginger new MyProject --template git_repo_uri # use a template to init project
 ginger lemon # starts lemon server
 ginger run # runs program
 ginger interact # opens interactive enviroment
