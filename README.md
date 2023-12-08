@@ -1,13 +1,14 @@
 [![forthebadge](https://forthebadge.com/images/featured/featured-built-with-love.svg)](https://forthebadge.com)
 
 # Ginger
+### Coming soon...
+
 
 A distributed programming language that is a little sweet 🍬 but mostly spicy 🔥
 
 Go's well with Lemon, a built-in webui to handle your distributed programs.
 
 
-### Coming soon...
 
 ## Downloads
 
