@@ -69,11 +69,11 @@ defmodule Combinator do
     end
   end
 
-  def whitespace1({parsed, rest, result}) do
+  def wh1({parsed, rest, result}) do
     {_, rest, result} = many1({parsed, rest, result}, fn p -> char(p, " ") end)
     {parsed, rest, result}
   end
-  def whitespace({parsed, rest, result}) do
+  def wh({parsed, rest, result}) do
     {_, rest, result} = many({parsed, rest, result}, fn p -> char(p, " ") end)
     {parsed, rest, result}
   end
